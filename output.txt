@@ -1,1 +1,1 @@
-ERROR | https://www.youtube.com/watch?v=tOyocHpHVGk | ERROR: [youtube] tOyocHpHVGk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Обзор MacBook Air M4 — сравнение ТОП-версии с минимальной | https://www.youtube.com/watch?v=tOyocHpHVGk
